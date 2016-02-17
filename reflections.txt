@@ -1,0 +1,9 @@
+1) How long did you spend working on this project?
+About 2 hours.
+2) What was the most rewarding challenge you conquered?
+The most rewarding thing with this project was not having any starter code
+and trying to create something from scratch.  It feels for the first time like
+coming a long way since we are now able to ALMOST create something from scratch.
+3) Where do you still have room to grow?
+All over!  I still need to learn a lot of the pre-packaged ruby goodies.  What
+methods I can call and when I can call them.
